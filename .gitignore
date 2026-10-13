@@ -1,0 +1,10 @@
+# MATLAB & Simulink
+*.slxc
+*.asv
+*.autosave
+slprj/
+*.m~
+
+# OS artifacts
+.DS_Store
+Thumbs.db
